@@ -1,19 +1,27 @@
-## Hi there 👋
+# Beni Kams
 
-<!--
-**benikams03/benikams03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub !
 
-Here are some ideas to get you started:
+Je suis un développeur Full Stack Web, Mobile & Desktop, passionné par la création d’applications modernes, performantes et orientées vers des solutions concrètes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://monsite.com">
-  <img src="https://monsite.com/logo.png" width="80">
-</a>
+J’ai une solide expérience dans la conception et le développement d’applications web, mobile et desktop, avec un focus particulier sur la qualité du code, la performance et l’expérience utilisateur.
+
+## Compétences
+
+- Frontend : React, HTML, CSS, JavaScript, TypeScript
+- Mobile : React Native (Expo)
+- Backend : Node.js, Fastify, PHP, Slim, Laravel
+- Base de données : MySQL, MongoDB, SQLlite
+- Autres : Electron, Git, API REST
+
+## Approche
+
+J’aime concevoir des solutions utiles, scalables et adaptées aux besoins réels.  
+Je travaille en respectant les bonnes pratiques et en utilisant des technologies modernes.
+
+Toujours en apprentissage, je m’intéresse également à la data, à l’IA et à l’architecture logicielle.
+
+## Contact
+
+Si vous cherchez un développeur sérieux, motivé et orienté résultats, n’hésitez pas à me contacter.
+
