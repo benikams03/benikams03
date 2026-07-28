@@ -10,7 +10,7 @@ J’ai une solide expérience dans la conception et le développement d’applic
 
 - Frontend : React, HTML, CSS, JavaScript, TypeScript
 - Mobile : React Native (Expo)
-- Backend : Node.js, Fastify, PHP, Slim, Laravel
+- Backend : Node.js, Fastify, PHP, Slim, Laravel, Nextjs
 - Base de données : MySQL, MongoDB, SQLlite
 - Autres : Electron, Git, API REST
 
